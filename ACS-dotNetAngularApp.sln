@@ -9,9 +9,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACS-dotNetAngularApp.Busine
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{3F930D7B-EE92-4737-ACB8-281352CA7853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACS-dotNetAngularApp.Business.Tests", "ACS-dotNetAngularApp.Business.Tests\ACS-dotNetAngularApp.Business.Tests.csproj", "{868427F0-088D-4A1B-BF13-9483DF21C233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACS-dotNetAngularApp.Business.Tests", "ACS-dotNetAngularApp.Business.Tests\ACS-dotNetAngularApp.Business.Tests.csproj", "{868427F0-088D-4A1B-BF13-9483DF21C233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACS-dotNetAngularApp.API.Tests", "ACS-dotNetAngularApp.API.Tests\ACS-dotNetAngularApp.API.Tests.csproj", "{51130BE0-5F3F-4964-9998-CB8D4B957959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACS-dotNetAngularApp.API.Tests", "ACS-dotNetAngularApp.API.Tests\ACS-dotNetAngularApp.API.Tests.csproj", "{51130BE0-5F3F-4964-9998-CB8D4B957959}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UI", "C:\Projects\ACS-dotNetAngularApp-Challange\UI\", "{E87D28D2-C09E-49DE-B046-4F3FFF110186}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52960"
+		Debug.AspNetCompiler.PhysicalPath = "C:\Projects\ACS-dotNetAngularApp-Challange\UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52960\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52960"
+		Release.AspNetCompiler.PhysicalPath = "C:\Projects\ACS-dotNetAngularApp-Challange\UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52960\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52960"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{41347344-28EA-440D-84C5-6EB92D6DC750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +57,10 @@ Global
 		{51130BE0-5F3F-4964-9998-CB8D4B957959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51130BE0-5F3F-4964-9998-CB8D4B957959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51130BE0-5F3F-4964-9998-CB8D4B957959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87D28D2-C09E-49DE-B046-4F3FFF110186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87D28D2-C09E-49DE-B046-4F3FFF110186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87D28D2-C09E-49DE-B046-4F3FFF110186}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87D28D2-C09E-49DE-B046-4F3FFF110186}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
