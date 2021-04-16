@@ -31,6 +31,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UI", "C:\Projects\ACS-dotNe
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "52960"
+		SlnRelativePath = "C:\Projects\ACS-dotNetAngularApp-Challange\UI\"
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{41347344-28EA-440D-84C5-6EB92D6DC750}"
