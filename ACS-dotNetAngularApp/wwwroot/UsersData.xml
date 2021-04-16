@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/ACS-dotNetAngularAppDAL.Models">
+  <User>
+    <ContactID>1</ContactID>
+    <FName>Ram</FName>
+    <LName>Ayodhya</LName>
+    <DOB>08/08/1970</DOB>
+    <Email>ram.Ayodhya@hotmail.com</Email>
+    <Phone>5678903456</Phone>
+  </User>
+  <User>
+    <ContactID>2</ContactID>
+    <FName>Mic</FName>
+    <LName>George</LName>
+    <DOB>01/03/1977</DOB>
+    <Email>mic.george@hotmail.com</Email>
+    <Phone>6628903494</Phone>
+  </User>
+  <User>
+    <ContactID>3</ContactID>
+    <FName>Suresh</FName>
+    <LName>Rachakonda</LName>
+    <DOB>08/11/1984</DOB>
+    <Email>suresh.Rachakonda@gmail.com</Email>
+    <Phone>3458903987</Phone>
+  </User>
+  <User>
+    <ContactID>4</ContactID>
+    <FName>Linda</FName>
+    <LName>joseph</LName>
+    <DOB>03/10/1983</DOB>
+    <Email>linda.joseph@hotmail.com</Email>
+    <Phone>7863457654</Phone>
+  </User>  
+  
+</Users>
